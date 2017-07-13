@@ -1,0 +1,17 @@
+{
+  "name": "node_youtube",
+  "version": "1.0.0",
+  "description": "Get Youtube playlist",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Hada",
+  "license": "ISC",
+  "dependencies": {
+    "facebook-node": "0.0.3",
+    "facebook-node-sdk": "^0.2.0",
+    "fb": "^2.0.0",
+    "youtube-playlist-info": "^0.1.0"
+  }
+}
